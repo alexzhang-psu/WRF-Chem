@@ -1,0 +1,7 @@
+1. Make offline maps (datafiles) of the optimum Soil HONO emission fluxes according to the data in the Soil_Emission Table, your WRF domain, and the land-use categories that you use. 
+
+2. Merger the soil hono emissions maps (datafiles) into wrfemi files
+
+3. Readin emissions into WRF, scale the optimum soil hono emission based on the soil texture, soil moisture, and soil temperature in each model cell. Scale Equations can be found in module_cbmz_addemiss.F
+
+

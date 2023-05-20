@@ -1,5 +1,5 @@
 # WRF-Chem
-A customized version of WRF-Chem to simulate reactive nitrogen compounds. Chemical scheme is based CBMZ_MOSAIC.
+A customized version of WRF-Chem to simulate reactive nitrogen compounds. Chemical scheme is based on CBMZ_MOSAIC.
 
 References:
 1. Zhang, L., Wang, T., Zhang, Q., et al., (2016). Potential sources of nitrous acid (HONO) and their impacts on ozone: A WRF-Chem study in a polluted subtropical region. Journal of Geophysical Research: Atmospheres, 121: 3645-3662. https://doi.org/10.1002/2015JD024468
